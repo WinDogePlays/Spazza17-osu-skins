@@ -1,9 +1,16 @@
 # Spazza17's osu! skins!
-# This is every skin that Spazza uses, if you have any questions or problems DM me on Discord RealWinDogePlays#8633.
+# This is every skin that Spazza uses, if you have any questions or problems DM SkroutzRekd#8552 on Discord.
+
+# Spazza17's socials:
+# Discord: https://discord.gg/yqhzfFf
+# Twitch: https://www.twitch.tv/spazza17
+# YouTube: https://www.youtube.com/channel/UC4JEl2dMSkFUCXnYvh1lIzw
+# osu!: https://osu.ppy.sh/u/3516241
+# Twitter: https://twitter.com/spazzaneve17
 
 MM/DD/YY Update name: Update description
 
-9/13/2020 Update 3: Fixed Spazza17 White (NO FADE) screenshot.
+9/13/2020 Update 4: Updated some text.
 
 # [! SPAZZAPENGUIN17+PUNPUN (ORANGE)](https://www.dropbox.com/s/jtwpkqq7yj47br6/%21%20SPAZZAPENGUIN17%2BPUNPUN%20%28ORANGE%29.osk?dl=0)
 ![](https://osu.ppy.sh/ss/15540502/5717)
