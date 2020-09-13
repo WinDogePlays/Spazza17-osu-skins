@@ -3,7 +3,7 @@
 
 MM/DD/YY Update name: Update description
 
-9/13/2020 Update 2: Fixed screenshots.
+9/13/2020 Update 3: Fixed Spazza17 White (NO FADE) screenshot.
 
 # [! SPAZZAPENGUIN17+PUNPUN (ORANGE)](https://www.dropbox.com/s/jtwpkqq7yj47br6/%21%20SPAZZAPENGUIN17%2BPUNPUN%20%28ORANGE%29.osk?dl=0)
 ![](https://osu.ppy.sh/ss/15540502/5717)
@@ -27,7 +27,7 @@ MM/DD/YY Update name: Update description
 ![](https://osu.ppy.sh/ss/15540827/f8fc)
 
 # [Spazza17 White (NO FADE)](https://www.dropbox.com/s/gbd36ilnnn5l54t/Spazza17%20NO%20FADE%20%28WHITE%29.osk?dl=0)
-![](https://osu.ppy.sh/ss/15540659/512a)
+![](https://osu.ppy.sh/ss/15540910/ddb6)
 
 # [Spazza17 FADE (COLOURS)](https://www.dropbox.com/s/h830b0htjubp7ms/Spazza17%20FADE%20%28COLORS%29.osk?dl=0)
 ![](https://osu.ppy.sh/ss/15540668/72d2)
